@@ -9,4 +9,5 @@
   * [2.3 如何使页面动态变化](chapter2/section3/index.md)
   * [2.4 可重用的计算](chapter2/section4/index.md)
   * [2.5 v-bind的特殊增强](chapter2/section5/index.md)
-  * [2.6 vue的逻辑处理](chapter2/section6/index.md)
+  * [2.6 v-if介绍](chapter2/section6/index.md)
+  * [2.6 v-for介绍](chapter2/section7/index.md)
