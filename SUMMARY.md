@@ -10,4 +10,5 @@
   * [2.4 可重用的计算](chapter2/section4/index.md)
   * [2.5 v-bind的特殊增强](chapter2/section5/index.md)
   * [2.6 v-if介绍](chapter2/section6/index.md)
-  * [2.6 v-for介绍](chapter2/section7/index.md)
+  * [2.7 v-for介绍](chapter2/section7/index.md)
+  * [2.8 事件处理](chapter2/section8/index.md)
