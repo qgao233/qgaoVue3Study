@@ -12,3 +12,4 @@
   * [2.6 v-if介绍](chapter2/section6/index.md)
   * [2.7 v-for介绍](chapter2/section7/index.md)
   * [2.8 事件处理](chapter2/section8/index.md)
+  * [2.9 表单输入绑定](chapter2/section9/index.md)
