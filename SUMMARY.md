@@ -13,3 +13,5 @@
   * [2.7 v-for介绍](chapter2/section7/index.md)
   * [2.8 事件处理](chapter2/section8/index.md)
   * [2.9 表单输入绑定](chapter2/section9/index.md)
+  * [2.10 生命周期与钩子](chapter2/section10/index.md)
+  * [2.11 状态变量侦听器](chapter2/section11/index.md)
