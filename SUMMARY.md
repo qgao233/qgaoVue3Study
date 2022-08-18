@@ -15,3 +15,5 @@
   * [2.9 表单输入绑定](chapter2/section9/index.md)
   * [2.10 生命周期与钩子](chapter2/section10/index.md)
   * [2.11 状态变量侦听器](chapter2/section11/index.md)
+  * [2.12 template 内的ref](chapter2/section12/index.md)
+  * [2.13 何为组件](chapter2/section13/index.md)
